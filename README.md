@@ -9,6 +9,8 @@ This project is a React dashboard demonstrating a customizable category and widg
 *   Styled Components
 *   Chart.js
 
+**Live URL :** https://accu-knox-87i1-msekhar2002s-projects.vercel.app/
+
 ## Project Structure
 
 ```
