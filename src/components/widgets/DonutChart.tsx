@@ -80,14 +80,6 @@ const LegendText = styled.span`
   color: #555;
 `;
 
-const BottomLegendContainer = styled.div`
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px 20px;
-  justify-content: center;
-  margin-top: 10px;
-`;
-
 const DonutChart: React.FC<DonutChartProps> = ({ title, data }) => {
   if (title === 'Cloud Accounts') {
     // Cloud Accounts chart data
